@@ -1,4 +1,4 @@
-This repository contains 2 algorithms to to find the top-k pairs of 2 sorted files.
+This repository contains 2 algorithms to find the top-k pairs of 2 sorted files. The files used by the algorithms are males_sorted and females_sorted
 
 The first algorithm is called Hash Rank Join Operator (HRJN) and its details are described in page 6 here: ([https://cs.uwaterloo.ca/~ilyas/papers/rank_join2.pdf])
 Execution examples:
