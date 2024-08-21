@@ -1,4 +1,3 @@
-#Patroklos Pappas 4470
 import sys
 import heapq
 import time
